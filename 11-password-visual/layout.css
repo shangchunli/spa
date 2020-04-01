@@ -1,0 +1,36 @@
+.box{
+    width:600px;
+    font-size:1.3em;
+    height:100px;
+    position:relative;
+    margin:50px auto; 
+  }
+  #textt{
+    width:80px;
+    height:40px;
+    position:absolute;
+    top:0px;
+    left:10px;
+  }
+  #password{
+    width:250px;
+    height:30px;
+    position:absolute;
+    top:0px;
+    left:90px;
+      
+  }
+  #pwd-text{
+    width:250px;
+    height:30px;
+    position:absolute;
+    top:0px;
+    left:90px;
+  }
+  #eye{
+    padding-top:2px;
+  
+    position:absolute;
+    top:3px;
+    left:307px;
+  }
